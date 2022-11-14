@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML, Big Data
 - 🌱 I’m currently learning SQL, Phyton
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me: isorochan@gmail.com
 
 <!---
 IgorBeHolder/IgorBeHolder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
