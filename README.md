@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgorBeHolder
 - 👀 I’m interested in AI/ML, Big Data
-- 🌱 I’m currently learning SQL, Phyton
+- 🌱 I’m currently mastering SQL, Phyton, R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: isorochan@gmail.com
 
