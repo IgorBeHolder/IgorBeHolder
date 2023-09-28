@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgorBeHolder
 - 👀 I’m interested in NLP (LLM )
 - 🌱 I am currently mastering my skills on [deeplearning.ai](https://www.deeplearning.ai/courses/) courses 
-- 💞️ I’m looking to collaborate on developing apps, leveraging using LLMs locally
+- 💞️ I’m looking to collaborate on developing apps, leveraging LLMs locally
 - 📫 How to reach me: isorochan@gmail.com
 
 <!---
