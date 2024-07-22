@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @IgorBeHolder
-- 👀 I’m interested in NLP (LLM )
-- 🌱 I am currently mastering my skills on [deeplearning.ai](https://www.deeplearning.ai/courses/) courses 
-- 💞️ I’m looking to collaborate on developing apps, leveraging LLMs locally
-- 📫 How to reach me: isorochan@gmail.com
+👋 Hi, I’m @IgorBeHolder, Principal Data Scientist at primoRPA.
+👀 I develop projects in CV (IDP) and LLM (KG-RAG).
+📫 How to reach me: isorochan@gmail.com
 
 <!---
 IgorBeHolder/IgorBeHolder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
