@@ -1,6 +1,6 @@
-👋 Hi, I’m @IgorBeHolder, Principal Data Scientist at primoRPA.  
+👋 Hi, I’m @IgorBeHolder, Principal ML Engineer @ primoRPA.  
 
-👀 I develop projects in CV (IDP) and LLM (KG-RAG).  
+👀 I develop projects in CV (IDP) and agentic assistants.  
 
 📫 How to reach me: isorochan@gmail.com
 
